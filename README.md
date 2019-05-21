@@ -26,3 +26,8 @@ A practice repository for introductory **Git** training
 2. Put into a bowl and mix.
 3. Scoop out flesh and destone avocado.
 4. Season with salt and peppper.
+
+##collaboratorsproject
+- ready for desert
+– more icecream
+- more coffee
