@@ -23,3 +23,6 @@ A practice repository for introductory **Git** training
 ## method
 
 Put into a bowl and mix.
+
+
+Make sure to enjoy!!!
