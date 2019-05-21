@@ -25,3 +25,4 @@ A practice repository for introductory **Git** training
 1. Chop onions and tomatoes.
 2. Put into a bowl and mix.
 3. Scoop out flesh and destone avocado.
+4. Season with salt and peppper.
