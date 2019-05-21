@@ -12,13 +12,13 @@ A practice repository for introductory **Git** training
    print(file)   #for code in multiple lines
 ```
 
-##ingredients
+## ingredients
 
 - avocado
 - onion
 - salt
 - pepper
 
-##method
+## method
 
 Put into a bowl and mix.
