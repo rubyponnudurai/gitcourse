@@ -16,6 +16,7 @@ A practice repository for introductory **Git** training
 
 - avocado
 - onion
+- tomato
 - salt
 - pepper
 
