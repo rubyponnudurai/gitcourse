@@ -16,10 +16,12 @@ A practice repository for introductory **Git** training
 
 - avocado
 - onion
-- tomato
+- tomatoes
 - salt
 - pepper
 
 ## method
 
-Put into a bowl and mix.
+1. Chop onions and tomatoes.
+2. Put into a bowl and mix.
+3. Scoop out flesh and destone avocado.
